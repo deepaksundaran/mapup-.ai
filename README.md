@@ -200,5 +200,14 @@ For each unique (id_start, id_end) pair, cover a full 24-hour period (from 12:00
 ![TASK111](https://github.com/deepaksundaran/mapup-.ai/assets/123062995/e82c2bd1-e0d5-478f-8fe5-4711702c0aab)
 
 
+EXCEL 
+
+![Screenshot (36)](https://github.com/deepaksundaran/mapup-.ai/assets/123062995/f14760c2-7a62-469b-899f-ba383092ae58)
+
+![Screenshot (37)](https://github.com/deepaksundaran/mapup-.ai/assets/123062995/797bd70b-0a95-4231-8995-e4d04468217b)
+
+![Screenshot (38)](https://github.com/deepaksundaran/mapup-.ai/assets/123062995/78f132df-86ba-4a45-b796-8ee4910ad3ea)
 
 
+![Screenshot (39)](https://github.com/deepaksundaran/mapup-.ai/assets/123062995/32475f6b-96eb-49d1-afd7-a2dfa3b0eed5)
+![Screenshot (40)](https://github.com/deepaksundaran/mapup-.ai/assets/123062995/3c9382ad-bf39-4f4e-9ce4-01e3e6aa0144)
